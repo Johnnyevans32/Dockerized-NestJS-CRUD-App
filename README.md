@@ -7,7 +7,6 @@ A robust CRUD application built with NestJS, featuring user authentication and m
 - User registration and login with JWT authentication
 - CRUD operations for user management
 - Secure password hashing
-- Role-based access control
 - Containerized with Docker and Docker Compose
 - PostgreSQL database integration
 
@@ -21,7 +20,7 @@ A robust CRUD application built with NestJS, featuring user authentication and m
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Johnnyevans32/Dockerized-NestJS-CRUD-App
 cd nestjs-crud-app
 ```
 
